@@ -22,4 +22,5 @@ public class CsvTestTwo {
         $$("data-testid=art__wrapper").shouldHave(Condition.text(expectedTest))
 
     }
+
 }
